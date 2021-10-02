@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #3DB2FF;
+}
+.container{
+    background-color: #F037A5;
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+    padding: 50px;
+
+}
+.header{
+  text-align: center;
+  font-size: 44px  
+}
+h1, p{
+    font-family: 'Press Start 2P', cursive;
+}
+.social-link img{
+    width: 64px;
+}
+
+.footer3{
+    height: 150px;
+    background-color: blueviolet;
+    border-bottom: 1px solid greenyellow;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
